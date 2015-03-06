@@ -4,7 +4,7 @@
 + [W3Schools](http://www.w3schools.com/): is optimized for learning, testing, and training. 
 + [Codeschool](http://codeschool.com/) teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
 
-### Worflow
+### Workflow
 + [Yeoman Workflow](http://yeoman.io/): The Yeoman workflow is comprised of three types of tools for improving your productivity and satisfaction when building a web app: 
     + [Yo](http://yeoman.io/) - scaffolds out a new application, writing your Grunt configuration and pulling in relevant Grunt tasks and Bower dependencies that you might need for your build.
     + [Bower](http://bower.io/) - the package management tool for the font-end made by Twitter. Installs and manages versions for font-end libraries like AngularJS, JQuery and Bootstrap. 
