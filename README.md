@@ -16,13 +16,11 @@
 ### Frameworks
 + Javascript
     + [AngularJS](http://angularjs.org/): HTML enhanced for web apps!
-        + Guide-to-the-directive: http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/
-        + Examples: https://github.com/angular/angular.js/wiki/JsFiddle-Examples
+        + AngularJS Bootstrap (http://angular-ui.github.io/bootstrap/)
+        + Font-awesome: http://fortawesome.github.io/Font-Awesome/
+        + modules: http://ngmodules.org/ 
+        + Code School Shaping Up with Angular.js (https://www.codeschool.com/courses/shaping-up-with-angular-js)
         + ng-i18Next: https://github.com/archer96/ng-i18next
-        + Roubenmeschian: http://roubenmeschian.com/tuts/lessons/AngularJS.html#/1
-        + angularjs-resource: https://github.com/mgechev/angularjs-resource
-        + Consuming RESTful APIs: http://fdietz.github.io/recipes-with-angular-js/consuming-external-services/consuming-restful-apis.html
-        + AngularOverlay-master (server.js): https://github.com/DanWahlin/AngularOverlay
     + [JQyery](http://jquery.com/): jQuery is a fast, small, and feature-rich JavaScript library.
         + [JQuery UI](http://jqueryui.com/) 
 + CSS
