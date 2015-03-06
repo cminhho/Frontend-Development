@@ -1,4 +1,8 @@
-# Frontend Deverlopment
+# Frontend Development
+
+### Guides
++ [W3Schools](http://www.w3schools.com/): is optimized for learning, testing, and training. 
++ [Codeschool](http://codeschool.com/) teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
 
 ### Worflow
 + [Yeoman Workflow](http://yeoman.io/): The Yeoman workflow is comprised of three types of tools for improving your productivity and satisfaction when building a web app: 
