@@ -1,4 +1,4 @@
-# Introduction
+# Frontend Deverlopment
 
 ### Worflow
 + [Yeoman Workflow](http://yeoman.io/): The Yeoman workflow is comprised of three types of tools for improving your productivity and satisfaction when building a web app: 
@@ -10,4 +10,9 @@
 + [JSHint](http://jshint.com/) for more flexible static analysis of JavaScript programs.
 
 ### Frameworks
-+ 
++ Javascript
+    + [AngularJS](http://angularjs.org/): HTML enhanced for web apps!
+    + [JQyery](http://jquery.com/): jQuery is a fast, small, and feature-rich JavaScript library.
++ CSS
+    + [Bootstrap](http://getbootstrap.com/); Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. 
+
